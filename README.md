@@ -12,7 +12,7 @@
  # Lingaguens usadas
  
  A linguagens aplicadas nesse projeto foram :
- . REACT 
+<!-- React -->
  .CSS
  .HTML
  
