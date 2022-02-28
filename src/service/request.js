@@ -1,21 +1,23 @@
-import axios from 'axios';
-import { BASE_URL } from '../constants/baseUrl';
-
+import axios from "axios";
+import { BASE_URL } from "../constants/baseUrl";
 
 export const getCharacterList = (saveData) => {
-    axios.get(`${BASE_URL}/people/`)
+  axios
+    .get(`${BASE_URL}/people/`)
     .then((res) => saveData(res.data.results))
-    .catch((err) => console.log(err.response))
-}
+    .catch((err) => console.log(err.response));
+};
 
 export const getCharacter = (url, saveData) => {
-    axios.get(url)
-        .then((res) => saveData(res.data))
-        .catch((err) => console.log(err.response))
-}
+  axios
+    .get(url)
+    .then((res) => saveData(res.data))
+    .catch((err) => console.log(err.response));
+};
 
 export const getPlanet = (url, saveData) => {
-    axios.get(url)
-        .then((res) => saveData(res.data.name))
-        .catch((err) => console.log(err.response))
-}
+  axios
+    .get(url)
+    .then((res) => saveData(res.data))
+    .catch((err) => console.log(err.response));
+};
