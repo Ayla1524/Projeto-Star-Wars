@@ -11,7 +11,6 @@
  
  # Lingaguens usadas
  
- A linguagens usadas nesse projeto foram : #React, #css
-<!--  extraindo delas todas informações que poderiamos ultilizar para a montagem desse aplicativo como -->
+ A linguagens usadas nesse projeto foram : .REACT .CSS
 
  
