@@ -12,15 +12,11 @@
  # Lingaguens usadas
  
  A linguagens aplicadas nesse projeto foram :
-<!-- React -->
- .CSS
- .HTML
+  
+REACT, CSS,HTML
  
  Onde foi ultilizadas os assuntos relacionandos a elas como : 
-.Axios 
-.UseEffect 
-.UseState
-.API 
+AXIOS, USEEFFECT, USESTATE, API
 
 #Imagens do Projeto 
  
