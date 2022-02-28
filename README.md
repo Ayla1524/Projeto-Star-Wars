@@ -7,5 +7,11 @@
  
  O projeto foi dividido em duas partes a primeira parte é das lista de personagens onde existe dois arquivos um com o código , e o outro 
  com a estilização . 
- A segunda parte assi como a primeira também contém dois arquivos. 
+ A segunda parte assim como a primeira também contém dois arquivos. 
+ 
+ # Lingaguens usadas
+ 
+ A linguagens usadas nesse projeto foram : #React, #css
+<!--  extraindo delas todas informações que poderiamos ultilizar para a montagem desse aplicativo como -->
+
  
