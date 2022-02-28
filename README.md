@@ -11,6 +11,8 @@
  
  # Lingaguens usadas
  
- A linguagens usadas nesse projeto foram : .REACT .CSS
+ A linguagens usadas nesse projeto foram :
+ > REACT 
+ > CSS
 
  
